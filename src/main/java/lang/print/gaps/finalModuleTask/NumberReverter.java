@@ -10,6 +10,6 @@ public class NumberReverter {
             reversed = reversed * 10 + digit;
         }
 
-        System.out.println("Reversed Number: " + reversed);
+        System.out.println(reversed);
     }
 }
